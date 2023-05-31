@@ -2,4 +2,3 @@ source 'http://rubygems.org'
 
 # Specify your gem's dependencies in openstudio-standards.gemspec
 gemspec
-gem 'tbd', :github => 'rd2/tbd', :ref => 'v3.0.3'
